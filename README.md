@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 My name is Uzair Ahmed and I'm a software developer/front end engineer. I may know a thing or two about the web 😉. You can find me on [![LinkedIn][3.2]][2].
 
