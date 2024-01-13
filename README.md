@@ -1,13 +1,16 @@
-My name is Uzair Ahmed and I'm a software developer/front end engineer. You can find me on [![LinkedIn][3.2]][2].
+My name is Uzair Ahmed and I'm a software developer/front end engineer.
+- My professional profile
+[![Foo](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/uzairpm/)
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=dd0031&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61dafb&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=339933&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=007396&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=0078d7&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
+## 🔧 Tech Stack
+![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=red)
+![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 <!-- links to social media icons -->
