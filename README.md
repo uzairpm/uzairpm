@@ -1,6 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-
-My name is Uzair Ahmed and I'm a software developer/front end engineer. I may know a thing or two about the web 😉. You can find me on [![LinkedIn][3.2]][2].
+My name is Uzair Ahmed and I'm a software developer/front end engineer. You can find me on [![LinkedIn][3.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
